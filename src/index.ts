@@ -1,0 +1,1 @@
+export * from './random-contrast-compliant/random-contrast-compliant';
